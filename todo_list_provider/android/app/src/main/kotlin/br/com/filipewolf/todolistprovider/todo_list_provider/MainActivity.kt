@@ -1,4 +1,4 @@
-package com.example.todo_list_provider
+package br.com.filipewolf.todolistprovider.todo_list_provider
 
 import io.flutter.embedding.android.FlutterActivity
 
